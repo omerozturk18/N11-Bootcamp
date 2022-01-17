@@ -1,1 +1,4 @@
-# second-homework n11 TalentHub Java Bootcamp
+# İkinci Hafta Ödevi
+Derste işlenilenler kapsamında ağıdaki isterler yapılmıştır.
+<img src="https://raw.githubusercontent.com/omerozturk18/N11-Bootcamp/master/SecondHomework/second-homework.png" />
+
